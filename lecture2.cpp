@@ -10,9 +10,11 @@
 
 // iostream is a file and we will use in our program,improve functionality.
 #include <iostream> //header file.//input output functions provides
+using namespace std;
 
 int main()
 {
+    // std::cout << "Hello jacknroll";
     cout << "Hello jacknroll";
-    return 0;
+    return 0; //successful termination of program
 }
